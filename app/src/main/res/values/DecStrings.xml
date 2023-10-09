@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="interstellerDescription" type="string">Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, Matt Damon, and Michael Caine. Set in a dystopian future where humanity is embroiled in a catastrophic blight and famine, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humankind.</item>
+<item name="interstellerActors" type="string">Matthew McConaughey as Joseph Cooper,Anne Hathaway as Dr. Amelia Brand,Jessica Chastain as Murphy "Murph" Cooper,Mackenzie Foy as young Murph, Ellen Burstyn as elderly Murph, Bill Irwin as TARS, Michael Caine as Professor John Brand, John Lithgow as Donald.</item>
+</resources>
